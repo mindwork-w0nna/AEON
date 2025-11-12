@@ -1,0 +1,10 @@
+AEON/[Ll]ibrary/
+AEON/[Tt]emp/
+AEON/[Oo]bj/
+AEON/[Bb]uild*/
+AEON/[Ll]ogs/
+AEON/UserSettings/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
